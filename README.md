@@ -8,7 +8,7 @@
 
 - :man_student: At present, I'm enrolled in two Full-Stack Developer courses:
   <ul>
-  <h4><a href='https://devinhouse.tech/'>DevInHouse - Sponsored by Philips</a> - main subjects:</h4>
+  <li><h4><a href='https://devinhouse.tech/'>DevInHouse - Sponsored by Philips</a> - main subjects:</h4></li>
    <ul>
         <li>Angular</li>
         <li>Java</li>
