@@ -2,9 +2,10 @@
 <h3 align="center">A full-stack developer from Brazil</h3>
 
 
-- 🔭 The latest project that I'm working on is Kidcode: [Kidcode - FrontEnd](https://github.com/ajhopf/kidcode-frontend) / [Kidcode - BackEnd](https://github.com/ajhopf/kidcode-backend)
+- 🔭 The projects that I'm working on are:
+    * Kidcode: [Kidcode - FrontEnd](https://github.com/ajhopf/kidcode-frontend) / [Kidcode - BackEnd](https://github.com/ajhopf/kidcode-backend)
 
-- 🌱 I’m currently learning **React, NodeJs, MongoDB**
+- 🌱 I’m currently learning **Angular and Python**
 
 - :man_student: At present, I'm enrolled in two Full-Stack Developer courses:
   <ul>
