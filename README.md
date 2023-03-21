@@ -19,7 +19,8 @@
       </ul>
     </li>
   
-  Also, in 2023 I concluded Tera Full-Stack developer course:
+  
+  <h3>Also, in 2023 I concluded Tera Full-Stack developer course: </h3>
   
   <li>
     <h4><a href='https://somostera.com/'>Tera</a> - main subjects:</h4>
