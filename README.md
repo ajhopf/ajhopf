@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm André Hopf</h1>
 <h3 align="center">A full-stack developer from Brazil</h3>
 
+- 🌱 I’m currently learning **Spring**
 
-- 🔭 The projects that I'm working on are:
-    * Kidcode: [Kidcode - FrontEnd](https://github.com/ajhopf/kidcode-frontend) / [Kidcode - BackEnd](https://github.com/ajhopf/kidcode-backend)
-
-- 🌱 I’m currently learning **Angular and Python**
-
-- :man_student: At present, I'm enrolled in two Full-Stack Developer courses:
+- :man_student: At present, I'm enrolled in a Full-Stack Developer course:
   <ul>
   <li><h4><a href='https://devinhouse.tech/'>DevInHouse - Sponsored by Philips</a> - main subjects:</h4></li>
    <ul>
@@ -22,6 +18,8 @@
      <li>Design Patterns</li>
       </ul>
     </li>
+  
+  Also, in 2023 I concluded Tera Full-Stack developer course:
   
   <li>
     <h4><a href='https://somostera.com/'>Tera</a> - main subjects:</h4>
