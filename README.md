@@ -45,9 +45,9 @@
 <a href="https://www.linkedin.com/in/andr%c3%a9-hopf-0b572516a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andr%c3%a9-hopf-0b572516a/" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajhopf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajhopf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <h3 align="center">Languages and Tools:</h3>
