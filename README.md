@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm André Hopf</h1>
 <h3 align="center">A full-stack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **pl/sql**
+- 🌱 I’m currently learning **React Native**
 
-- :man_student: At present, I'm enrolled in a Full-Stack Developer course:
+- :man_student: I'm an undergraduate student in Computer Science at Descomplica University.
   <ul>
+  
+  <h3>In 2023 I concluded two Full-Stack developer courses: </h3>
   <li><h4><a href='https://devinhouse.tech/'>DevInHouse - Sponsored by Philips</a> - main subjects:</h4></li>
    <ul>
         <li>Angular</li>
@@ -18,9 +20,6 @@
      <li>Design Patterns</li>
       </ul>
     </li>
-  
-  
-  <h3>Also, in 2023 I concluded Tera Full-Stack developer course: </h3>
   
   <li>
     <h4><a href='https://somostera.com/'>Tera</a> - main subjects:</h4>
