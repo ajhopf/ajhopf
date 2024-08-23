@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm André Hopf</h1>
 <h3 align="center">A full-stack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Next.Js** and **React Native**
+- 🌱 I’m currently learning **Groovy**
 
 - :man_student: I'm an undergraduate student in Computer Science at Descomplica University.
   <ul>
