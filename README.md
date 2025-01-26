@@ -1,12 +1,38 @@
 <h1 align="center">Hi 👋, I'm André Hopf</h1>
 <h3 align="center">A full-stack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Groovy**
+- 🌱 I’m currently learning **Grails**
+- I'm currently working on: ConciliaCão (AceleraZG final project)
 
 - :man_student: I'm an undergraduate student in Computer Science at Descomplica University.
-  <ul>
+
+<h2>Some of my projects</h2>
+
+<ul>
+  <li>Pegasus Bet: <a href='https://github.com/ajhopf/pegasusbet'>repository</a> </li>
+  <li><a href='https://lowengenharia.com.br'>Löw Engenharia</a></li>
+  <li>Woosh (under construction): <a href='https://github.com/ajhopf/woosh'>repository</a> / <a href='https://woosh.vercel.app/'>Woosh</a> </li>
+  <li>DevInHouse final project: <a href='https://github.com/ajhopf/devInHouse-finalProject-BackEnd'>Backend</a> / <a href='https://github.com/ajhopf/devInHouse-finalProject-frontEnd'>Frontend</a></li>
+</ul>
+
+<h2>Courses</h2>
+<ul>
+  <h3>2024</h3>
+  <li><h4></h4>AceleraZG organized by <a href='https://zgsolucoes.com.br/'>ZG Soluções</a></h4></li>
+  <h4>Main Subjects</h4>
+    <ul>
+      <li>Groovy</li>
+      <li>Grails</li>
+      <li>Clean Code</li>
+      <li>Design Patterns</li>
+      <li>Github</li>
+      <li>Angular</li>
+      <li>Regex</li>
+      <li>SQL</li>
+      <li>Kafka</li>
+    </ul>
   
-  <h3>In 2023 I concluded two Full-Stack developer courses: </h3>
+  <h3>2023</h3>
   <li><h4><a href='https://devinhouse.tech/'>DevInHouse - Sponsored by Philips</a> - main subjects:</h4></li>
    <ul>
         <li>Angular</li>
@@ -27,17 +53,18 @@
         <li>React</li>
         <li>Bootstrap</li>
         <li>NodeJs</li>
-                <li>MongoDb</li>
+        <li>MongoDb</li>
         <li>Python</li>
         <li>Aws</li>
       </ul>
   </li>      
   </ul>
+
     
 
 - 📫 How to reach me **andre.hopf@gmail.com**
 
-- ⚡ Fun fact I love plants and dogs. Last time I counted, I own 87 species of plants and three caramel colored dogs :dog2::dog2::dog2: :evergreen_tree: :palm_tree::sunflower:
+- ⚡ I live in Florianópolis along with my partner and three caramel colored dogs :dog2::dog2::dog2: :palm_tree:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
